@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UploadTest",
+			"Path": "..\\Source\\UploadTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UploadTestEditor",
+			"Path": "..\\Source\\UploadTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

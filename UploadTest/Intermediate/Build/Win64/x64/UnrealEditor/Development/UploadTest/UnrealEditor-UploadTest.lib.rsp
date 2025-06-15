@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UploadTest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\User\Desktop\Unreal-Upload-Test\UploadTest\Intermediate\Build\Win64\x64\UploadTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\User\Desktop\Unreal-Upload-Test\UploadTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\UploadTest\UploadTest.cpp.obj"
+"C:\Users\User\Desktop\Unreal-Upload-Test\UploadTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\UploadTest\PerModuleInline.gen.cpp.obj"
+"C:\Users\User\Desktop\Unreal-Upload-Test\UploadTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\UploadTest\Default.rc2.res"
+/OUT:"C:\Users\User\Desktop\Unreal-Upload-Test\UploadTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\UploadTest\UnrealEditor-UploadTest.lib"
